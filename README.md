@@ -1,5 +1,6 @@
+🌟🌟🌟
 Hi, I'm KN!
-I am a front-end developer who enjoys taking on different design challenges.
+I am a front-end developer who enjoys taking on different design challenges. 👩🏻‍💻
 
 
 <!---
