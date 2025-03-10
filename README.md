@@ -3,7 +3,7 @@
 
 ---
 ### About me 
-👩🏻‍💻 A Frontend Engineer. Who desired to become a better engineer every day.
+👩🏻‍💻 A Frontend Engineer. Who desired to become a better engineer every day.  
 🪄 My main frameworks are React and Vue.   
 I’m on a mission—learning, grinding, and aiming to land a job that’s the perfect fit… hopefully with a smooth landing! 🚀  
   
